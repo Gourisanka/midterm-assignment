@@ -1,0 +1,84 @@
+body{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    border: 2px solid black;
+    font: 20px 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Structural{
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+    
+    padding: 20px;
+    font-size: 25px;
+}
+p{
+    color: blueviolet;
+}
+
+h2{
+    color: blueviolet;
+    font-size: 22px;
+}
+main{
+    height: 70vh;
+}
+
+figcaption{
+    background-color: antiquewhite;
+    font-weight: 100;
+    font-size: 20px;
+    padding: 5px;
+   
+}
+
+img{
+    border: 2px solid black;
+    width: 90%;
+    height: 80%;
+}
+#left{
+    
+    float: left;
+    
+}
+#right{
+    float: right;
+    
+
+}
+figure{
+    background-color: antiquewhite;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+
+}
+section{
+    clear: both;
+    padding: 10px;
+    
+}
+#link{
+    color: aquamarine;
+}
+
+ a :hover {
+    color: burlywood;
+}
+header.footer {
+    text-align: center;
+    color: rgb(211, 82, 82);
+    background-color: antiquewhite;
+}
+footer{
+    text-align: center;
+    color: aqua;
+    background-color: antiquewhite;
+}
